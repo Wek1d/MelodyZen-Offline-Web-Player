@@ -1,10 +1,10 @@
 # MelodyZen-Offline-Web-Player
 # MelodyZen Offline Music Player for Web
 
-[![GitHub license](https://img.shields.io/github/license/wek1d/MelodyZen?style=flat-square)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/wek1d/MelodyZen?style=flat-square)](https://github.com/wek1d/MelodyZen/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/wek1d/MelodyZen?style=flat-square)](https://github.com/wek1d/MelodyZen/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/wek1d/MelodyZen?style=flat-square)](https://github.com/wek1d/MelodyZen/issues)
+[![GitHub license](https://img.shields.io/github/license/wek1d/MelodyZen-Offline-Web-Player?style=flat-square)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/wek1d/MelodyZen-Offline-Web-Player?style=flat-square)](https://github.com/wek1d/MelodyZen-Offline-Web-Player/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/wek1d/MelodyZen-Offline-Web-Player?style=flat-square)](https://github.com/wek1d/MelodyZen-Offline-Web-Player/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/wek1d/MelodyZen-Offline-Web-Player?style=flat-square)](https://github.com/wek1d/MelodyZen-Offline-Web-Player/issues)
 
 ## Proje Hakkında
 
@@ -32,11 +32,11 @@ MelodyZen'i yerel ortamınızda çalıştırmak oldukça basittir:
 
 1.  Bu depoyu bilgisayarınıza klonlayın:
     ```bash
-    git clone [https://github.com/wek1d/MelodyZen.git](https://github.com/wek1d/MelodyZen.git)
+    git clone [https://github.com/wek1d/MelodyZen.git](https://github.com/wek1d/MelodyZen-Offline-Web-Player.git)
     ```
 2.  Proje dizinine gidin:
     ```bash
-    cd MelodyZen
+    cd MelodyZen-Offline-Web-Player
     ```
 3.  `index.html` dosyasını favori web tarayıcınızda açın.
 
@@ -55,7 +55,7 @@ Projenin geliştirilmesine katkıda bulunmaktan çekinmeyin! Hata bildirimleri, 
 
 ## Lisans
 
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
+Bu proje Apache License 2.0 altında lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
 
 ## İletişim
 
