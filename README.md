@@ -1,4 +1,3 @@
-# MelodyZen-Offline-Web-Player
 # MelodyZen Offline Music Player for Web
 
 [![GitHub license](https://img.shields.io/github/license/wek1d/MelodyZen-Offline-Web-Player?style=flat-square)](LICENSE)
