@@ -23,7 +23,7 @@ MelodyZen, tamamen web tabanlı ve **çevrimdışı çalışabilen** modern bir 
 
 ## Canlı Demoyu Görün
 
-Uygulamayı doğrudan tarayıcınızda deneyimlemek için [GitHub Pages linki buraya gelecek] adresini ziyaret edin.
+Uygulamayı doğrudan tarayıcınızda deneyimlemek için [https://wek1d.github.io/MelodyZen-Offline-Web-Player/] adresini ziyaret edin.
 
 ## Kurulum ve Çalıştırma (Geliştiriciler İçin)
 
